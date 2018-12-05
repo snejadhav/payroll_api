@@ -1,0 +1,19 @@
+{
+  "name": "apiswagger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "sne",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "boom": "^7.3.0",
+    "inert": "^5.1.2",
+    "joi": "^14.3.0",
+    "vision": "^5.4.3"
+  }
+}
